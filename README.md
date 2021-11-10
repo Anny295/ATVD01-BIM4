@@ -1,6 +1,6 @@
 # ATVD01-BIM4
 ## ATIVIDADE AVALIATIVA, REFERENTE A NOTA PARCIAL DO QUARTO BIMESTRE DA DISCIPLINA DE DESENVOLVIMENTO DE SISTEMAS PARA A INTERNET 
-### ALUNAS: ANNY JULIANE CARVALHO DE ARAUJO E LUIZA LIRA 
+### ALUNAS: ANNY JULIANE CARVALHO DE ARAUJO E MATHEUS FELIPE S DIAS SOARES
 #### TUTORIAL SOBRE VALIDAÇÃO DE ENTRADAS
 
     
@@ -22,7 +22,15 @@
    
     Agora é preciso entender como o processo de validação dos dados ocorre dentro do projeto, para que as informações sejam averiguadas de acordo com a necessidade do sistema. Para que o procedimento de validação de dados se inicie, primordialmente existe uma necessidade de importação de uma variável "body" que vai ter como função dentro do script a validação de dados de entrada, e o validationResult, que armazenará o resultado da entrada, afirmando se a mesma é válida ou não.
     
+    
      Logo a seguir desse procedimento, a necessidade de colocar a validação como um middleware na request, se mostra aparente, e é possível realizar o desenvolvimento deste processo utilizando um array antes do request e response, da forma a seguir:
+     
+     
+     
+     ![alt text](https://i.imgur.com/g1DKfb0.png)
+     
+     
+     
      
 
     
