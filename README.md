@@ -65,10 +65,15 @@ Caso tudo esteja válido irá retornar a mensagem “Tudo válido”, aqui nessa
     
 **REFERÊNCIAS BIBLIOGRÁFICAS**
 
-https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status
+https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status,
+
 https://www.luiztools.com.br/post/tutorial-de-validacao-de-input-de-dados-em-node-js/
+
 https://www.devmedia.com.br/blocos-try-catch/7339
+
 https://experienceleague.adobe.com/docs/contributor/contributor-guide/writing-essentials/markdown.html?lang=pt-BR#listas-numeradas-e-listas-de-itens
+
 https://programandosolucoes.dev.br/2020/11/10/valida-api-express-validator/
+
 
 
